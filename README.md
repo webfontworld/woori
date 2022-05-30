@@ -1,0 +1,42 @@
+# woori
+
+# 우리다움체(Wooridaum)
+
+<a href="https://wess.tistory.com" target="_blank">
+    <img src="https://webfontworld.github.io/woori/Wooridaum.jpg" alt="Wooridaum" style="width:300px">
+</a>
+<pre>
+@font-face {
+    font-family: 'Wooridaum';
+    font-weight: 300;
+    font-style: normal;
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/woori/WooridaumL.eot');
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/woori/WooridaumL.eot?#iefix') format('embedded-opentype'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/woori/WooridaumL.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/woori/WooridaumL.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/woori/WooridaumL.ttf') format("truetype");
+    font-display: swap;
+} 
+@font-face {
+    font-family: 'Wooridaum';
+    font-weight: 400;
+    font-style: normal;
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/woori/WooridaumR.eot');
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/woori/WooridaumR.eot?#iefix') format('embedded-opentype'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/woori/WooridaumR.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/woori/WooridaumR.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/woori/WooridaumR.ttf') format("truetype");
+    font-display: swap;
+} 
+@font-face {
+    font-family: 'Wooridaum';
+    font-weight: 700;
+    font-style: normal;
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/woori/WooridaumB.eot');
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/woori/WooridaumB.eot?#iefix') format('embedded-opentype'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/woori/WooridaumB.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/woori/WooridaumB.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/woori/WooridaumB.ttf') format("truetype");
+    font-display: swap;
+} 
+</pre>
